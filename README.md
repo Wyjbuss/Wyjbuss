@@ -14,7 +14,8 @@
 
 <p align="left">
 
-<a href="https://twitter.com/BussellWyatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/wyatt-bussell-3810b3141/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14131508/wyatt-bussell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13219775/ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/wyattbussell/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="developer.ishan" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/BussellWyatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wyattBussell" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wyatt-bussell-3810b3141/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wyattBussell" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/14131508/wyatt-bussell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="wyattBussell" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/wyattbussell/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wyattBussell" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/wyattbussell/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wyattBussell" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
